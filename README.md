@@ -1,2 +1,2 @@
 # Pointers
-Using of Pointers in C
+Advance Using of Pointers in C
