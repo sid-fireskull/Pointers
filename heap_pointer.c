@@ -4,7 +4,8 @@
 
 int *mysum(int *x, int *y)
 {
-	// malloc function is use to block a memory block in heap which is use to store data permanently to the entire program lifecycle
+	
+// malloc function is use to block a memory block in heap which is use to store data permanently to the entire program lifecycle
 	
 	int* val=(int *)malloc(sizeof(int)); 
 	*val=(*x)+(*y);
