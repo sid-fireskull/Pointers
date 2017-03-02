@@ -1,5 +1,5 @@
 // Program to implement of Pointers in 1D Array
-
+// Author: Sid
 #include<stdio.h>
 #include<stdlib.h>
 main()
