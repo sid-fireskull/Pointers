@@ -1,4 +1,6 @@
 // Using of Heap Pointers to store Data
+// Author: Sid
+
 #include<stdio.h>
 #include<stdlib.h>
 
