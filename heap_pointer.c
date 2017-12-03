@@ -1,5 +1,5 @@
 // Using of Heap Pointers to store Data
-// Author: Sid
+// Author: Siddhartha Sadhukhan
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -23,7 +23,7 @@ main()
 	printf("\nEnter the Second number: ");
 	scanf("%d",&b);
 	c=mysum(&a,&b);
-	printf("\nAnswer: %d ");
+	printf("\nAnswer: %d ",*c);
 	getch();
 }
 
