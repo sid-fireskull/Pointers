@@ -1,5 +1,5 @@
 // Program to pass charecter pointer to the Function
-// Author: Sid
+// Author: Siddhartha Sadhukhan
 #include<stdio.h>
 #include<stdlib.h>
 void print(char* ch)
